@@ -19,7 +19,7 @@ jobs:
           user: j1c
           template: classic
           base: ""
-          filename: metrics-base.svg
+          filename: metrics-achievements.svg
           config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: detailed
