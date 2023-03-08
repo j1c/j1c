@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Jaewon Chung /</strong> <a href="https://j1c.me">Homepage</a> / <a href="https://twitter.com/j1chung">Twitter</a> / <a href="[https://github.com/j1c](https://scholar.google.com/citations?hl=en&user=TVxrMrgAAAAJ)">Google Scholar</a>
+<strong>Jaewon Chung /</strong> <a href="https://j1c.me">Homepage</a> / <a href="https://twitter.com/j1chung">Twitter</a> / <a href="https://scholar.google.com/citations?hl=en&user=TVxrMrgAAAAJ">Google Scholar</a></pre></p>
 
 I am fourth-year a Ph.D. candidate in the Department of Biomedical Engineering at Johns Hopkins University. My research is in the [NeuroData lab](https://neurodata.io) where I am advised by Dr. Joshua T. Vogelstein. 
 
