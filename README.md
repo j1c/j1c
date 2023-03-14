@@ -5,6 +5,4 @@ I am fourth-year a Ph.D. candidate in the Department of Biomedical Engineering a
 
 My work focuses on using statistical and computational techniques to help understand populations of macroscale connectomes. Currently, I am collaborating with Microsoft Research on the development of [graspologic](https://github.com/microsoft/graspologic), a Python package for statistical analyses of networks. 
 
-<a href="https://metrics.lecoq.io/about/j1c"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/j1c"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
-
+<a href="https://metrics.lecoq.io/about/j1c"><img src="github-metrics.svg"></img></a>
